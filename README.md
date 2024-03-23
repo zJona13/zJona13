@@ -34,13 +34,3 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/31htvs73jtmflqla66mehmbsh4bi">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31htvs73jtmflqla66mehmbsh4bi&count=5&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
