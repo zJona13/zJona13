@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋! My name is Jonatan, from Peru</h1>
 
-![Logo](https://i.pinimg.com/originals/9a/b6/ea/9ab6ea8304be95dc21314c84854755ef.jpg)
+<div>![Logo](https://i.pinimg.com/originals/42/a8/d4/42a8d4625aeb088c45eba5a84ca36325.gif)</div>
+
 
 ###
 
