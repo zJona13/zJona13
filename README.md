@@ -7,17 +7,17 @@
 
 ###
 ```javascript
-const Me = require("./Maurits.json");
+const Me = require("./Jonatan.json");
 
 console.log(`Hi! Im ${Me.name}`);
 console.log(`I mainly program in ${Me.preferredLanguage}, woops I meant ${Me.preferredProgrammingLanguage}`);
-console.log(`I have two adorable cats named ${Me.pets.cats[0].name} and ${Me.pets.cats[1].name}`);
-console.log(`You can find them on my site! ${Me.site}`);
+console.log(`I like ${Me.deports.fav[0].name} a lot`);
+console.log(`Coming soon my website`);
 
-// Hi! Im Maurits
-// I mainly program in Dutch, woops I meant TypeScript
-// I have two adorable cats named Pippa and Olly
-// You can find them on my site! MauritsWilke.com
+// Hi! Im Jonatan
+// I mainly program in Spanish, woops I meant Python
+// I like soccer a lot
+// Coming soon my website
 ```
 ###
 
